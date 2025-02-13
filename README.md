@@ -1,0 +1,1 @@
+This repository contains an Ada program demonstrating a potential error in range checking. The `Check_Range` function might have subtle issues related to inclusive/exclusive range handling. The `bug.ada` file shows the erroneous code, and `bugSolution.ada` provides a corrected version.  This example highlights the importance of precise range specification in Ada.
